@@ -1,28 +1,95 @@
-## Hi there, I'm Kiero 👋
-
-🎓 I'm a Computer Science student at Mapúa University with a passion for tech, learning, and building cool things.  
-💻 I love working on projects involving web development and software development.
-
----
-
-## 🛠️ Skills
-- 💡 Programming: Python, Java, C++, JavaScript
-- 🌐 Web Development: HTML, CSS, JavaScript
-- 📊 Tools: 
-- ⚙️ Others: Typing, Social Media Management, Excel, Transcription, Video Editing
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+in+Progress;Data+Science+Specialist;Building+Intelligent+Systems">
+</p>
 
 ---
 
-## 🌱 Currently Learning
-- React.js & Frontend Frameworks
-- Advanced Python & Backend Concepts
-- More about Software Development Best Practices
+<h1 align="center">⚡ KAIGOSAMA</h1>
+<h3 align="center">Aspiring Full Stack Software Engineer | Data Science Specialist</h3>
+
+<p align="center">
+Building scalable systems. Extracting intelligence from data. Engineering the future.
+</p>
 
 ---
 
-## 📌 Projects
-Check out my pinned repositories below to see what I’ve been working on!  
-I'm always open to feedback and collaboration.
+## 🧠 Core Focus
+
+- 🌐 Full Stack Development (Frontend + Backend Systems)
+- 📊 Data Science & Analytics
+- ⚙️ System Design & Architecture
+- 🚀 Scalable Applications
+
+---
+
+## 💙 Current Skill Matrix
+
+Learning Enthusiasm  ██████████ 95%  
+Problem Solving      ████████░░ 80%  
+Full Stack Dev       ███████░░░ 70%  
+Data Science         ██████░░░░ 60%  
+System Design        █████░░░░░ 50%
+
+---
+
+## ⚡ Tech Arsenal
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-Advanced-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-orange?style=for-the-badge&logo=mysql)
+![C++](https://img.shields.io/badge/C++-Foundational-blue?style=for-the-badge&logo=cplusplus)
+
+### 🌐 Web & Frameworks
+![HTML](https://img.shields.io/badge/HTML-Essential-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Styling-blue?style=for-the-badge&logo=css3)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
+
+### 📊 Data Stack
+![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-purple?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-blue?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikit-learn)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaigosama&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaigosama&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kaigosama&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+## 🛸 Contribution Matrix
+
+![Contribution Graph](https://github-contribution-graph.ezirmusitua.vercel.app/?username=Kaigosama&theme=react-dark)
+
+---
+
+## 🧬 Engineering Philosophy
+
+> “Systems should be scalable. Code should be readable. Data should tell stories.”
+
+I don’t just build features —  
+I design systems that handle growth, failure, and complexity.
+
+---
+
+## 🔁 Daily Execution Loop
+
+```python
+while True:
+    study()
+    build()
+    break_things()
+    fix_them()
+    optimize()
+    repeat()
 
 ---
 
