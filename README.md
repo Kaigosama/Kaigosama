@@ -28,7 +28,7 @@ I'm always open to feedback and collaboration.
 
 ## 📫 Let's Connect!
 - Email: guiangk54@gmail.com
-- LinkedIn: [Mariah Kate D. Guiang](www.linkedin.com/in/mariah-kate-guiang-85a010348) 
+- LinkedIn: [Tristan Kier D. Guiang](www.linkedin.com/in/mariah-kate-guiang-85a010348) 
 ---
 
 > “The best way to learn is by doing. Let’s keep building!”
