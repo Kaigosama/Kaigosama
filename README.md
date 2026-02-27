@@ -55,28 +55,37 @@ System Design        █████░░░░░ 50%
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaigosama&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaigosama&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaigosama&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kaigosama&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaigosama&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaigosama&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🛸 Contribution Matrix
 
-![Contribution Graph](https://github-contribution-graph.ezirmusitua.vercel.app/?username=Kaigosama&theme=react-dark)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Kaigosama&theme=react-dark)
 
 ---
 
-## 🧬 Engineering Philosophy
+## 📫 Let's Connect!
+- Email: guiangk54@gmail.com
+- LinkedIn: [Tristan Kier D. Guiang](www.linkedin.com/in/mariah-kate-guiang-85a010348)
+
+---
 
 > “Systems should be scalable. Code should be readable. Data should tell stories.”
 
 I don’t just build features —  
 I design systems that handle growth, failure, and complexity.
+
+> “The best way to learn is by doing. Let’s keep building!”
 
 ---
 
@@ -93,11 +102,8 @@ while True:
 
 ---
 
-## 📫 Let's Connect!
-- Email: guiangk54@gmail.com
-- LinkedIn: [Tristan Kier D. Guiang](www.linkedin.com/in/mariah-kate-guiang-85a010348) 
----
 
-> “The best way to learn is by doing. Let’s keep building!”
+
+
 
 
