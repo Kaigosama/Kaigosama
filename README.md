@@ -55,11 +55,11 @@ System Design        █████░░░░░ 50%
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaigosama&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kaigosama&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaigosama&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kaigosama&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ System Design        █████░░░░░ 50%
 
 ## 🛸 Contribution Matrix
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Kaigosama&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaigosama&theme=react-dark)
 
 ---
 
@@ -99,8 +99,6 @@ while True:
     fix_them()
     optimize()
     repeat()
-
----
 
 
 
